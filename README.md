@@ -1,1 +1,1 @@
-# sign_language_recognition_Cross_Entropy_Loss
+# sign_language_recognition_Cross_WIth_Simple_Entropy_Loss
